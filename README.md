@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @SimonJoelWarkentin
-- 👀 I’m interested in FOSS
-- 🌱 I’m currently learning Rust and MySQL
-- 💞️ I’m looking for jobs...
-- 📫 If you are interested, email me at mail@simonjoel.com
+- Hi, I’m @SimonJoelWarkentin
+- I’m passionate about FOSS
+- I am the kind of person who learns on the go
+- Linux is my true love, web developement is new to me
+- I’m currently learning MySQL and Javascript
+- I’m looking for tech jobs, but I am currently working in sales
+- If you are interested, email me at mail@simonjoel.com
